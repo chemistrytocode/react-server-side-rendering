@@ -1,6 +1,6 @@
 ## React Server Side Rendering
 
-Example App to showcase Server Side Rendering.
+Example App to showcase Server Side Rendering and React Testing Library
 
 [Broadly followed the guide here](https://www.digitalocean.com/community/tutorials/react-server-side-rendering)
 
@@ -21,5 +21,5 @@ Run with:
 
 Expected functionality:
 * Server side render.
-* Saved change should cause a rerender.
+* Saved changes should cause server rerenders.
 

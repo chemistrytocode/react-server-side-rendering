@@ -1,12 +1,12 @@
 import React from 'react';
-import Name from './Components/Name/Name';
+import { Greeting, Counter, ShowHide } from './Components';
 
 function App() {
   return (
     <>
-      <Name name="Jack"></Name>
-      <Name name="Jill"></Name>
-      <Name name="went up the hill"></Name>
+      <Name name="Energy"></Name>
+      <Counter />
+      <ShowHide />
     </>
   )
 }
